@@ -14,10 +14,10 @@
         }
     ],
     "require": {
-        "october/system": "^2.0",
-        "october/backend": "^2.0",
-        "october/cms": "^2.0",
-        "october/media": "^2.0",
-        "october/editor": "^2.0"
+        "october/system": "dev-develop",
+        "october/backend": "dev-develop",
+        "october/cms": "dev-develop",
+        "october/media": "dev-develop",
+        "october/editor": "dev-develop"
     }
 }
