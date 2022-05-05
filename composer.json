@@ -1,8 +1,8 @@
 {
     "name": "october/all",
-    "description": "All modules for October CMS",
+    "description": "All common modules for October CMS",
     "homepage": "https://octobercms.com",
-    "keywords": ["october cms", "october", "core"],
+    "keywords": ["october cms", "october", "core", "all"],
     "authors": [
         {
             "name": "Alexey Bobkov",
@@ -18,6 +18,7 @@
         "october/backend": "dev-develop",
         "october/cms": "dev-develop",
         "october/media": "dev-develop",
-        "october/editor": "dev-develop"
+        "october/editor": "dev-develop",
+        "october/tailor": "dev-develop"
     }
 }
