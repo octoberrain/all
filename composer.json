@@ -14,11 +14,11 @@
         }
     ],
     "require": {
-        "october/system": "3.1.*",
-        "october/backend": "3.1.*",
-        "october/cms": "3.1.*",
-        "october/media": "3.1.*",
-        "october/editor": "3.1.*",
-        "october/tailor": "3.1.*"
+        "october/system": "3.2.*",
+        "october/backend": "3.2.*",
+        "october/cms": "3.2.*",
+        "october/media": "3.2.*",
+        "october/editor": "3.2.*",
+        "october/tailor": "3.2.*"
     }
 }
