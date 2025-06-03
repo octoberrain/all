@@ -9,6 +9,7 @@
         "october/cms": "dev-develop",
         "october/media": "dev-develop",
         "october/editor": "dev-develop",
-        "october/tailor": "dev-develop"
+        "october/tailor": "dev-develop",
+        "october/dashboard": "dev-develop"
     }
 }
