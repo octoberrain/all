@@ -4,12 +4,12 @@
     "homepage": "https://octobercms.com",
     "keywords": ["october cms", "october", "core", "all"],
     "require": {
-        "october/system": "dev-develop",
-        "october/backend": "dev-develop",
-        "october/cms": "dev-develop",
-        "october/media": "dev-develop",
-        "october/editor": "dev-develop",
-        "october/tailor": "dev-develop",
-        "october/dashboard": "dev-develop"
+        "october/system": "4.0.*",
+        "october/backend": "4.0.*",
+        "october/cms": "4.0.*",
+        "october/media": "4.0.*",
+        "october/editor": "4.0.*",
+        "october/tailor": "4.0.*",
+        "october/dashboard": "4.0.*"
     }
 }
